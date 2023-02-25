@@ -1,6 +1,6 @@
 
 
-# Project: C - More functions, more nested loops | Holberton Montevideo, Uruguay
+# Project: C - More functions, more nested loops
 
 ---
 ## Resources
