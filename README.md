@@ -13,13 +13,13 @@
 
 - [C - Pointers, arrays and strings](#)
 
-- [- C - More pointers, arrays and strings](#)
+- [C - More pointers, arrays and strings](#)
 
-- [- C - Even more pointers, arrays and strings](#)
+- [C - Even more pointers, arrays and strings](#)
 
-- [- C - Recursion](#)
+- [C - Recursion](#)
 
-- [ C - Static libraries](#)
+- [C - Static libraries](#)
 
 - [C - argc, argv](#)
 
@@ -27,7 +27,7 @@
 
 - [C - More malloc,free](#)
 
-- [ C - Preprocessor](#)
+- [C - Preprocessor](#)
 
 - [C - Structures, typedef](#)
 
@@ -39,11 +39,11 @@
 
 - [C - Singly linked lists](#)
 
-- [ C - Doubly linked lists](#)
+- [C - Doubly linked lists](#)
 
 - [C - Bit manipulation](#)
 
-- [ C - File I/O](#)
+- [C - File I/O](#)
 
 - [C - Hash tables](#)
 
