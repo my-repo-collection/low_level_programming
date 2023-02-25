@@ -377,7 +377,7 @@ julien@ubuntu:~/c/$
 
 
 -----------------------
-[Next Project](https://intranet.hbtn.io/projects/2152)
+[Next project: C - Variables, if, else, while](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/variables_if_else_while)
 
 --------------
 ### <center>Created by Lorecg</center>
