@@ -1,3 +1,6 @@
+# Project: C - Hello, World | Holberton 
+
+---
 ![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet.project.files/holbertonschool-low_level_programming/212/cisfun.jpg)
 
 ## Resources
@@ -374,15 +377,26 @@ julien@ubuntu:~/c/$
 -   Directory: `hello_world`
 -   File: `6-size.c`
 
+----
+
+### Score
+
+![Project badge](https://intranet.hbtn.io/assets/pathway/004_color-d2fbcfb42ba7481834896ecc89a6f0ae65762b3c1096691dd0f820f7f29e3389.png)
+
+100%
+
+Congratulations! You made it!
+
+---
 
 
------------------------
-[Next project: C - Variables, if, else, while](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/variables_if_else_while)
+- [Next project: C - Variables, if, else, while](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/variables_if_else_while)
 
---------------
+------------------------------
+
 ### <center>Created by Lorecg</center>
 
-And with the help of: 
+And with the help of:
 
 - [markdownlivepreview](https://markdownlivepreview.com/)
 
