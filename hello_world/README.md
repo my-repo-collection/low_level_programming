@@ -108,8 +108,6 @@ You can now type `betty <filename>` to run the Betty linter!
 
 -----
 
-**Great!** You've completed the quiz successfully! Keep going! (Show quiz)
-
 ## Tasks
 
 ### 0\. Preprocessor
