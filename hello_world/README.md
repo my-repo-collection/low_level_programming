@@ -106,11 +106,7 @@ done
 
 You can now type `betty <filename>` to run the Betty linter!
 
-### Manual QA Review
-
-**It is your responsibility to request a review for your blog from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a TA or staff member.**
-
-### Quiz questions
+-----
 
 **Great!** You've completed the quiz successfully! Keep going! (Show quiz)
 
