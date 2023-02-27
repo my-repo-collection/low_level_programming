@@ -1,0 +1,3 @@
+# Ignorar archivos de main
+*-main.c
+main.h
