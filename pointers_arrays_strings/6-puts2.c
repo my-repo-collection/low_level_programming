@@ -9,21 +9,11 @@
  */
 void puts2(char *str)
 {
-	int i;
+    int i;
 
-	/*
-	 * itera sobre los caracteres de la cadena
-	 */
-	for (i = 0; str[i] != '\0'; i += 2)
-	{
-		/*
-		 * imprime el caracter actual
-		 */
-		_putchar(str[i]);
-	}
-
-	/*
-	 * imprime un caracter de nueva linea al final
-	 */
-	_putchar('\n');
+    for (i = 0; str[i] != '\0'; i += 2)
+    {
+        _putchar(str[i]);
+    }
+    _putchar('\n');
 }
