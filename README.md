@@ -11,7 +11,7 @@
 
 - [C - More functions, more nested loops](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/more_functions_nested_loops)
 
-- [C - Pointers, arrays and strings](#)
+- [C - Pointers, arrays and strings](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/pointers_arrays_strings)
 
 - [C - More pointers, arrays and strings](#)
 
