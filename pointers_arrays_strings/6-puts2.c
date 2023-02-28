@@ -6,7 +6,9 @@
  * @str: input string
  */
 void puts2(char *str)
+
 {
+
 	int i;
 	int j = 0;
 
@@ -19,6 +21,5 @@ void puts2(char *str)
 	{
 	_putchar(str[i]);
 	}
-
-	_putchar('n');
+	_putchar('\n');
 }
