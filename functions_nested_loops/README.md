@@ -1,23 +1,23 @@
 # C - Functions, nested loops
 
------
+___
 
-## Resources
+## [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#resources)Resources
 
 **Read or watch**:
 
 -   [Nested while loops](https://intranet.hbtn.io/rltoken/XR1FqLCngwWdV5-sOcTkYA "Nested while loops")
 -   [C - Functions](https://intranet.hbtn.io/rltoken/y0tuBpspBgJ8E2STVqEPQQ "C - Functions")
 -   [Learning to Program in C (Part 06)](https://intranet.hbtn.io/rltoken/znVekiyJaZQ12d15MhS8fQ "Learning to Program in C (Part 06)") (_stop at 14:00_)
--   [What is a function prototype (read only the “Function prototype paragraph”)](https://intranet.hbtn.io/rltoken/5LM45CAPlfwlu5Q3eCctAg "What is a function prototype (read only the "Function prototype paragraph")")
+-   \[What is a function prototype (read only the “Function prototype paragraph”)\]([https://intranet.hbtn.io/rltoken/5LM45CAPlfwlu5Q3eCctAg](https://intranet.hbtn.io/rltoken/5LM45CAPlfwlu5Q3eCctAg) "What is a function prototype (read only the "Function prototype paragraph")")
 -   [What is the purpose of a function prototype?](https://intranet.hbtn.io/rltoken/SuqVH2cku18AiywqUIrgVA "What is the purpose of a function prototype?")
 -   [C - Header Files](https://intranet.hbtn.io/rltoken/erpTD0m97ydWAVtyyGkbRA "C - Header Files") (_stop before the “Once-Only Headers” paragraph_)
 
-## Learning Objectives
+## [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#learning-objectives)Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.hbtn.io/rltoken/AxVpYap6ZFrpx86DqPISyg "explain to anyone"), **without the help of Google**:
 
-### General
+### [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#general)General
 
 -   What are nested loops and how to use them
 -   What is a function and how do you use functions
@@ -27,9 +27,9 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 -   What are the `gcc` flags `-Wall -Werror -pedantic -Wextra -std=gnu89`
 -   What are header files and how to to use them with `#include`
 
-## Requirements
+## [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#requirements)Requirements
 
-### General
+### [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#general-1)General
 
 -   Allowed editors: `vi`, `vim`, `emacs`
 -   All your files will be compiled on Ubuntu 20.04 LTS using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
@@ -45,169 +45,14 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 -   The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 -   Don’t forget to push your header file
 
-## More Info
+## [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#more-info)More Info
 
 You do not have to understand the call by reference (address), stack, static variables, recursions or arrays, yet.
 
-### Quiz questions
 
-**Great!** You've completed the quiz successfully! Keep going! (Show quiz)
+## [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#tasks)Tasks
 
-#### Question #0
-
-Which of these loop statements don’t exist?
-
--   [ ] 
-    
-    `for`
-    
--   [ ] 
-    
-    `while`
-    
--   [x] 
-    
-    `foreach`
-    
--   [ ] 
-    
-    `do... while`
-    
--   [x] 
-    
-    `loop_to`
-    
--   [x] 
-    
-    `each`
-    
-
-#### Question #1
-
-What is the ASCII value of `A`?
-
--   97
-    
--   65
-    
--   12
-    
--   1
-    
-
-#### Question #2
-
-What is the ASCII value of `a`?
-
--   97
-    
--   65
-    
--   12
-    
--   1
-    
-
-#### Question #3
-
-What is the ASCII value of `J`?
-
--   70
-    
--   72
-    
--   74
-    
--   76
-    
-
-#### Question #4
-
-What is the ASCII value of `0`?
-
--   79
-    
--   0
-    
--   48
-    
-
-#### Question #5
-
-What is the ASCII value of `-`?
-
--   45
-    
--   3
-    
--   47
-    
-
-#### Question #6
-
-What is the ASCII value of `5`?
-
--   50
-    
--   53
-    
--   5
-    
-
-#### Question #7
-
-What is the result of `12 % 2`?
-
--   0
-    
--   1
-    
--   2
-    
-
-#### Question #8
-
-What is the result of `12 % 3`?
-
--   0
-    
--   1
-    
--   2
-    
--   3
-    
-
-#### Question #9
-
-What is the result of `12 % 10`?
-
--   0
-    
--   1
-    
--   2
-    
--   3
-    
-
-#### Question #10
-
-What is the result of `89 % 7`?
-
--   0
-    
--   2
-    
--   3
-    
--   5
-    
------------------------------
-
-## Tasks
-
-### 0\. \_putchar
+### [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#0-_putchar)0\. \_putchar
 
 mandatory
 
@@ -228,12 +73,11 @@ julien@ubuntu:~/$
 
 -   GitHub repository: `holbertonschool-low_level_programming`
 -   Directory: `functions_nested_loops`
--   File: `0-putchar.c
+-   File: \`0-putchar.c
 
 ___
 
-
-### 1\. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
+### [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#1-i-sometimes-suffer-from-insomnia-and-when-i-cant-fall-asleep-i-play-what-i-call-the-alphabet-game)1\. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
 
 mandatory
 
@@ -270,9 +114,9 @@ julien@ubuntu:~/$
 -   Directory: `functions_nested_loops`
 -   File: `1-alphabet.c`
 
-----
+___
 
-### 2\. 10 x alphabet
+### [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#2-10-x-alphabet)2\. 10 x alphabet
 
 mandatory
 
@@ -318,9 +162,9 @@ julien@ubuntu:~/$
 -   Directory: `functions_nested_loops`
 -   File: `2-print_alphabet_x10.c`
 
-----
+___
 
-### 3\. islower
+### [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#3-islower)3\. islower
 
 mandatory
 
@@ -368,9 +212,9 @@ julien@ubuntu:~/$
 -   Directory: `functions_nested_loops`
 -   File: `3-islower.c`
 
-------
+___
 
-### 4\. isalpha
+### [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#4-isalpha)4\. isalpha
 
 mandatory
 
@@ -420,9 +264,9 @@ julien@ubuntu:~/$
 -   Directory: `functions_nested_loops`
 -   File: `4-isalpha.c`
 
---------
+___
 
-### 5\. Sign
+### [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#5-sign)5\. Sign
 
 mandatory
 
@@ -485,9 +329,9 @@ julien@ubuntu:~/$
 -   Directory: `functions_nested_loops`
 -   File: `5-sign.c`
 
-----
+___
 
-### 6\. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you
+### [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#6-there-is-no-such-thing-as-absolute-value-in-this-world-you-can-only-estimate-what-a-thing-is-worth-to-you)6\. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you
 
 mandatory
 
@@ -538,9 +382,9 @@ julien@ubuntu:~/$
 -   Directory: `functions_nested_loops`
 -   File: `6-abs.c`
 
-------
+___
 
-### 7\. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
+### [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#7-there-are-only-3-colors-10-digits-and-7-notes-its-what-we-do-with-them-thats-important)7\. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
 
 mandatory
 
@@ -583,9 +427,9 @@ julien@ubuntu:~/$
 -   Directory: `functions_nested_loops`
 -   File: `7-print_last_digit.c`
 
-----
+___
 
-### 8\. I'm federal agent Jack Bauer, and today is the longest day of my life
+### [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#8-im-federal-agent-jack-bauer-and-today-is-the-longest-day-of-my-life)8\. I'm federal agent Jack Bauer, and today is the longest day of my life
 
 mandatory
 
@@ -644,9 +488,9 @@ julien@ubuntu:~/$
 -   Directory: `functions_nested_loops`
 -   File: `8-24_hours.c`
 
------
+___
 
-### 9\. Learn your times table
+### [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#9-learn-your-times-table)9\. Learn your times table
 
 mandatory
 
@@ -703,9 +547,9 @@ julien@ubuntu:~/$
 -   Directory: `functions_nested_loops`
 -   File: `9-times_table.c`
 
------
+___
 
-### 10\. a + b
+### [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#10-a--b)10\. a + b
 
 mandatory
 
@@ -745,9 +589,9 @@ julien@ubuntu:~/$
 -   Directory: `functions_nested_loops`
 -   File: `10-add.c`
 
------
+___
 
-### 11\. 98 Battery Street, the OG
+### [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#11-98-battery-street-the-og)11\. 98 Battery Street, the OG
 
 mandatory
 
@@ -796,27 +640,24 @@ julien@ubuntu:~/$
 -   Directory: `functions_nested_loops`
 -   File: `11-print_to_98.c`
 
-----
+___
 
 
-### Score
 
-![Project badge](https://intranet.hbtn.io/assets/pathway/004_color-d2fbcfb42ba7481834896ecc89a6f0ae65762b3c1096691dd0f820f7f29e3389.png)
+[![Project badge](https://camo.githubusercontent.com/7f0998ce32f2c09f87bd43b2bdcd4a2ee28cc523f7f49dc576268b6d3c638588/68747470733a2f2f696e7472616e65742e6862746e2e696f2f6173736574732f706174687761792f3030345f636f6c6f722d643266626366623432626137343831383334383936656363383961366630616536353736326233633130393636393164643066383230663766323965333338392e706e67)](https://camo.githubusercontent.com/7f0998ce32f2c09f87bd43b2bdcd4a2ee28cc523f7f49dc576268b6d3c638588/68747470733a2f2f696e7472616e65742e6862746e2e696f2f6173736574732f706174687761792f3030345f636f6c6f722d643266626366623432626137343831383334383936656363383961366630616536353736326233633130393636393164643066383230663766323965333338392e706e67)
 
-100%
 
-Congratulations! You made it!
 
---------------
+___
 
 [Next project: C - Makefiles](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/makefiles)
 
-------------------------------
+___
 
-### <center>Created by Lorecg</center>
+### [](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops#created-by-lorecg)Created by Lorecg
 
 And with the help of:
 
-- [markdownlivepreview](https://markdownlivepreview.com/)
-
-- [markdownload](https://github.com/deathau/markdownload)
+-   [markdownlivepreview](https://markdownlivepreview.com/)
+    
+-   [markdownload](https://github.com/deathau/markdownload)
