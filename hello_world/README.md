@@ -1,6 +1,3 @@
-# Project: C - Hello, World | Holberton 
-
----
 ![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet.project.files/holbertonschool-low_level_programming/212/cisfun.jpg)
 
 ## Resources
@@ -106,7 +103,6 @@ done
 
 You can now type `betty <filename>` to run the Betty linter!
 
------
 
 ## Tasks
 
@@ -114,7 +110,7 @@ You can now type `betty <filename>` to run the Betty linter!
 
 mandatory
 
-Score: 100.00% (Checks completed: 100.00%)
+
 
 Write a script that runs a C file through the preprocessor and save the result into another file.
 
@@ -156,7 +152,7 @@ julien@ubuntu:~/c/$
 -   Directory: `hello_world`
 -   File: `0-preprocessor`
 
-Score: 100.00% (Checks completed: 100.00%)
+### 1\. Compiler
 
 Write a script that compiles a C file but does not link.
 
@@ -193,7 +189,8 @@ julien@ubuntu:~/c/$ cat -v main.o | head
 -   Directory: `hello_world`
 -   File: `1-compiler`
 
-Score: 100.00% (Checks completed: 100.00%)
+
+### 2\. Assembler
 
 Write a script that generates the assembly code of a C code and save it in an output file.
 
@@ -249,7 +246,7 @@ julien@ubuntu:~/c/$
 -   Directory: `hello_world`
 -   File: `2-assembler`
 
-Score: 100.00% (Checks completed: 100.00%)
+### 3\. Name
 
 Write a script that compiles a C file and creates an executable named `cisfun`.
 
@@ -282,7 +279,7 @@ julien@ubuntu:~/c/$
 -   Directory: `hello_world`
 -   File: `3-name`
 
-Score: 100.00% (Checks completed: 100.00%)
+### 4. Hello, puts
 
 Write a C program that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line.
 
@@ -308,7 +305,7 @@ julien@ubuntu:~/c/$
 
 mandatory
 
-Score: 100.00% (Checks completed: 100.00%)
+
 
 Write a C program that prints exactly `with proper grammar, but the outcome is a piece of art,`, followed by a new line.
 
@@ -336,7 +333,6 @@ julien@ubuntu:~/c/$
 
 mandatory
 
-Score: 100.00% (Checks completed: 100.00%)
 
 Write a C program that prints the size of various types on the computer it is compiled and run on.
 
@@ -371,27 +367,21 @@ julien@ubuntu:~/c/$
 -   Directory: `hello_world`
 -   File: `6-size.c`
 
-----
+[Next project: C - Variables, if, else, while](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/variables_if_else_while)
 
-### Score
+
 
 ![Project badge](https://intranet.hbtn.io/assets/pathway/004_color-d2fbcfb42ba7481834896ecc89a6f0ae65762b3c1096691dd0f820f7f29e3389.png)
 
-100%
-
-Congratulations! You made it!
-
----
 
 
-- [Next project: C - Variables, if, else, while](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/variables_if_else_while)
 
-------------------------------
 
-### <center>Created by Lorecg</center>
+------
+Created by LoreCG ❤
 
-And with the help of:
+- with the help of:
 
-- [markdownlivepreview](https://markdownlivepreview.com/)
+[MarkDownload](https://github.com/deathau/markdownload)
 
-- [markdownload](https://github.com/deathau/markdownload)
+[Markdown Live Preview](https://markdownlivepreview.com/)
