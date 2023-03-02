@@ -380,7 +380,7 @@ julien@ubuntu:~/c/$
 ------
 Created by LoreCG ❤
 
-- with the help of:
+- with help of:
 
 [MarkDownload](https://github.com/deathau/markdownload)
 
