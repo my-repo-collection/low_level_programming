@@ -52,6 +52,6 @@
 ----------------------------
 ### <center>Created by Lorecg</center>
 
-With help of: 
+With the help of: 
 
 - [markdownlivepreview](https://markdownlivepreview.com/)
