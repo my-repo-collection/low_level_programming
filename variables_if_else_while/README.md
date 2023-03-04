@@ -1,4 +1,10 @@
-## C - Variables, if, else, while
+
+# C - Variables, if, else, while
+
+-   Novice
+-   By: Julien Barbier
+-   Weight: 1
+-   Your score will be updated as you progress.
 
 ## Resources
 
@@ -53,9 +59,8 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 -   You are not allowed to use `system`
 -   Your code should use the `Betty` style. It will be checked using [betty-style.pl](https://github.com/hs-hq/Betty/blob/master/betty-style.pl "betty-style.pl") and [betty-doc.pl](https://github.com/hs-hq/Betty/blob/master/betty-doc.pl "betty-doc.pl")
 
-### Quiz questions
 
-**Great!** You've completed the quiz successfully! Keep going! (Show quiz)
+    
 
 ## Tasks
 
@@ -104,11 +109,21 @@ julien@ubuntu:~/$
 -   Directory: `variables_if_else_while`
 -   File: `0-positive_or_negative.c`
 
+
+
+
+[![](https://intranet.hbtn.io/assets/checker_whm_pre_donna_shirley-3bb252970ce467b7340eff4111827c4fb76f67053dd3bd5ebe8b5d783e2112d4.png)](https://twitter.com/hashtag/HbtnWomensHistoryMonth)
+
+___
+
+
+
+
 ### 1\. The last digit
 
 mandatory
 
-Score: 100.00% (Checks completed: 100.00%)
+
 
 This program will assign a random number to the variable `n` each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable `n`.
 
@@ -161,11 +176,10 @@ julien@ubuntu:~/$
 -   Directory: `variables_if_else_while`
 -   File: `1-last_digit.c`
 
+
+
 ### 2\. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
 
-mandatory
-
-Score: 100.00% (Checks completed: 100.00%)
 
 Write a program that prints the alphabet in lowercase, followed by a new line.
 
@@ -186,7 +200,13 @@ julien@ubuntu:~/$
 -   Directory: `variables_if_else_while`
 -   File: `2-print_alphabet.c`
 
-Score: 100.00% (Checks completed: 100.00%)
+
+
+
+
+### 3\. alphABET
+
+
 
 Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 
@@ -206,6 +226,8 @@ julien@ubuntu:~/$
 -   GitHub repository: `holbertonschool-low_level_programming`
 -   Directory: `variables_if_else_while`
 -   File: `3-print_alphabets.c`
+
+
 
 ### 4\. When I was having that alphabet soup, I never thought that it would pay off
 
@@ -234,6 +256,14 @@ julien@ubuntu:~/$
 -   Directory: `variables_if_else_while`
 -   File: `4-print_alphabt.c`
 
+
+
+
+
+### 5\. Numbers
+
+mandatory
+
 Score: 100.00% (Checks completed: 100.00%)
 
 Write a program that prints all single digit numbers of base 10 starting from `0`, followed by a new line.
@@ -252,6 +282,12 @@ julien@ubuntu:~/$
 -   GitHub repository: `holbertonschool-low_level_programming`
 -   Directory: `variables_if_else_while`
 -   File: `5-print_numbers.c`
+
+
+
+### 6\. Numberz
+
+mandatory
 
 Score: 100.00% (Checks completed: 100.00%)
 
@@ -274,6 +310,8 @@ julien@ubuntu:~/$
 -   GitHub repository: `holbertonschool-low_level_programming`
 -   Directory: `variables_if_else_while`
 -   File: `6-print_numberz.c`
+
+
 
 ### 7\. Smile in the mirror
 
@@ -300,6 +338,11 @@ julien@ubuntu:~/$
 -   Directory: `variables_if_else_while`
 -   File: `7-print_tebahpla.c`
 
+
+### 8\. Hexadecimal
+
+mandatory
+
 Score: 100.00% (Checks completed: 100.00%)
 
 Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
@@ -320,6 +363,8 @@ julien@ubuntu:~/$
 -   GitHub repository: `holbertonschool-low_level_programming`
 -   Directory: `variables_if_else_while`
 -   File: `8-print_base16.c`
+
+
 
 ### 9\. Patience, persistence and perspiration make an unbeatable combination for success
 
@@ -350,28 +395,11 @@ julien@ubuntu:~/$
 -   File: `9-print_comb.c`
 
 
-### Score
+---
 
 ![Project badge](https://intranet.hbtn.io/assets/pathway/004_color-d2fbcfb42ba7481834896ecc89a6f0ae65762b3c1096691dd0f820f7f29e3389.png)
+----
 
-100%
-
-Congratulations! You made it!
-
-
-
-
-
-
-
-
-
------------------------
 [Next project: C - Functions, nested loops](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/functions_nested_loops)
 
---------------
-### <center>Created by Lorecg</center>
-
-And with the help of: 
-
-- [markdownlivepreview](https://markdownlivepreview.com/)
+---
