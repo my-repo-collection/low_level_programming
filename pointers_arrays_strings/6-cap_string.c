@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- * cap_tring - capitalizes all words of a string
+ * cap_string - capitalizes all words of a string
  * @str: input string
  *
  * Return: pointer to modified string
