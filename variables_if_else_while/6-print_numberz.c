@@ -4,16 +4,14 @@
 * main - Prints the all single numbers of base 10.
 * Return: 0
 */
-
 int main(void)
 {
-int num;
+	int i;
 
-for (num = 48 ; num < 58 ; num++)
-{
-putchar(num);
-}
-putchar(10);
-return (0);
-}
+	for (i = 0; i < 10; i++)
+		putchar(i + '0');
 
+	putchar('\n');
+
+	return (0);
+}
