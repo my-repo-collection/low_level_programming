@@ -4,20 +4,22 @@
 * main - Prints the all combinations of single numbers.
 * Return: 0
 */
-
 int main(void)
 {
-int num;
+	int i;
 
-for (num = 48 ; num < 58 ; num++)
-{
-putchar(num);
-if (num < 57)
-{
-putchar(',');
-putchar(' ');
-}
-}
-putchar(10);
-return (0);
+	for (i = 0; i < 10; i++)
+	{
+		putchar(i + '0');
+		if (i != 9)
+		{
+			putchar(',');
+			putchar(' ');
+		}
+	}
+
+	putchar('\n');
+
+	return (0);
+
 }
