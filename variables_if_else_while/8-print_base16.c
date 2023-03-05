@@ -1,24 +1,25 @@
 #include <stdio.h>
 
 /**
-* main - Prints the hexageximal numbers.
+* main - prints all the numbers of base 16 in lowercase,
+* followed by a new line.
 * Return: 0
 */
-
 int main(void)
 {
-char letra;
+	int i;
 
-for (letra = '0' ; letra <= '9' ; letra++)
-{
-putchar(letra);
-}
+	for (i = 0; i < 10; i++)
+	{
+		putchar(i + '0');
+	}
 
-for (letra = 'a' ; letra <= 'f' ; letra++)
-{
-putchar(letra);
-}
+	for (i = 'a'; i <= 'f'; i++)
+	{
+		putchar(i);
+	}
 
-putchar(10);
-return (0);
+	putchar('\n');
+
+	return (0);
 }
