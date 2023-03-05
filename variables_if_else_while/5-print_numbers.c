@@ -1,18 +1,21 @@
 #include <stdio.h>
 
 /**
-* main - Prints the all single numbers of base 10.
-* Return: 0
-*/
-
+ * main - Imprime todos los números de un solo
+ * dígito de la base 10 comenzando desde 0.
+ *
+ * Return: 0 si el programa se ejecuta bien.
+ */
 int main(void)
 {
-char letra;
+	int i;
 
-for (letra = '0' ; letra <= '9' ; letra++)
-{
-putchar(letra);
-}
-putchar(10);
-return (0);
+	for (i = 0; i < 10; i++)
+	{
+		printf("%d", i);
+	}
+
+	printf("\n");
+
+	return (0);
 }
