@@ -4,14 +4,15 @@
 * main - Prints the alphabet in lower case in reverse.
 * Return: 0
 */
+
 int main(void)
 {
-	char letter;
+char letra;
 
-	for (letter = 'z'; letter >= 'a'; letter--)
-		putchar(letter);
-
-	putchar('\n');
-
-	return (0);
+for (letra = 'z' ; letra >= 'a' ; letra--)
+{
+putchar(letra);
+}
+putchar(10);
+return (0);
 }
