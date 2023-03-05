@@ -1,28 +1,21 @@
 #include <stdio.h>
 
 /**
-* main - Prints the alphabet in lower case.
-* Return: 0
-*/
-
+ * main - Prints the alphabet in lowercase, then
+ * uppercase, followed by a new line.
+ *
+ * Return: Alays 0 (success)
+ */
 int main(void)
 {
+	char ch;
 
-char letra_i, letra_f;
+	for (ch = 'a'; ch <= 'z'; ch++)
+		putchar(ch);
 
-letra_i = 'a';
-letra_f = 'z';
+	for (ch = 'A'; ch <= 'Z'; ch++)
+		putchar(ch);
 
-while (letra_i <= letra_f)
-{
-putchar(letra_i);
-letra_i++;
-if (letra_i == 123)
-{
-letra_i = 'A';
-letra_f = 'Z';
-}
-}
-putchar(10);
-return (0);
+	putchar('\n');
+	return (0);
 }
