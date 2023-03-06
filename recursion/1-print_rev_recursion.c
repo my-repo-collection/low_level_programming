@@ -3,7 +3,7 @@
 
 /**
  * _print_rev_recursion - print a string in reverse recursively
- * @: the string to print in reverse
+ * @s: the string to print in reverse
  *
  * Return: void
  */
