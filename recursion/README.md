@@ -3,13 +3,50 @@
 ![img](https://github.com/lorecarreno/img/raw/main/c-recursion-meme.jpg?raw=true)
 
 
-### Recursos
+![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet.project.files/holbertonschool-low_level_programming/219/a88.jpg)
 
-[Recursion #cisfun](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/misc/2021/1/2818ba6f14f644b871dcbd746925fa15b8cd5937.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230306%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230306T003314Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d29ef45bd0b057ca78b6f51448a733403510b959175b37bb7b792472f8d45af2)
-https://www.tutorialspoint.com/cprogramming/c_recursion.htm
-[What on Earth is Recursion? - Computerphile](https://youtu.be/Mv9NEXX1VHc)
-[C - Recursion](https://intranet.hbtn.io/rltoken/z4N9mWZKHoonkjFmeA2moA)
-[C Programming Tutorial 85, Recursion pt.1](https://youtu.be/XGxbXMP6k8k)
+## Resources
+
+**Read or watch**:
+
+-   [Recursion, introduction](https://intranet.hbtn.io/rltoken/RZZmKmQJAnyqS_Ci1fFy2A "Recursion, introduction")
+-   [What on Earth is Recursion?](https://intranet.hbtn.io/rltoken/2W6GbB5XNktHDrjqoRPy2g "What on Earth is Recursion?")
+-   [C - Recursion](https://intranet.hbtn.io/rltoken/DC8k2o4fIaE379ozY_Gl1A "C - Recursion")
+-   [C Programming Tutorial 85, Recursion pt.1](https://intranet.hbtn.io/rltoken/z4N9mWZKHoonkjFmeA2moA "C Programming Tutorial 85, Recursion pt.1")
+-   [C Programming Tutorial 86, Recursion pt.2](https://intranet.hbtn.io/rltoken/IOJxRGq3Ts8lNhR2IWwCnA "C Programming Tutorial 86, Recursion pt.2")
+
+## Learning Objectives
+
+At the end of this project, you are expected to be able to [explain to anyone](https://intranet.hbtn.io/rltoken/bqw8EDfaKm0M065Lw3ia5w "explain to anyone"), **without the help of Google**:
+
+### General
+
+-   What is recursion
+-   How to implement recursion
+-   In what situations you should implement recursion
+-   In what situations you shouldn’t implement recursion
+
+## Requirements
+
+### General
+
+-   Allowed editors: `vi`, `vim`, `emacs`
+-   All your files will be compiled on Ubuntu 20.04 LTS using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
+-   All your files should end with a new line
+-   A `README.md` file, at the root of the folder of the project is mandatory
+-   Your code should use the `Betty` style. It will be checked using [betty-style.pl](https://github.com/hs-hq/Betty/blob/master/betty-style.pl "betty-style.pl") and [betty-doc.pl](https://github.com/hs-hq/Betty/blob/master/betty-doc.pl "betty-doc.pl")
+-   You are not allowed to use global variables
+-   No more than 5 functions per file
+-   You are not allowed to use the standard library. Any use of functions like `printf`, `puts`, etc… is forbidden
+-   You are allowed to use [\_putchar](https://github.com/hs-hq/_putchar.c/blob/master/_putchar.c "_putchar")
+-   You don’t have to push `_putchar.c`, we will use our file. If you do it won’t be taken into account
+-   In the following examples, the `main.c` files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own `main.c` files at compilation. Our `main.c` files might be different from the one shown in the examples
+-   The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
+-   Don’t forget to push your header file
+-   **You are not allowed to use any kind of loops**
+-   You are not allowed to use `static` variables
+
+
 ----
 
 ### 0\. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget  
