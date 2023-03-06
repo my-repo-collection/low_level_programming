@@ -5,7 +5,7 @@
  * _puts_recursion - imprime una cadena de caracteres,
  * seguida de un salto de linea
  * @s: string to be printed
- *
+ *i
  * Return: void
  */
 void _puts_recursion(char *s)
@@ -15,7 +15,7 @@ void _puts_recursion(char *s)
 		putchar('\n');
 		return;
 	}
-	
+
 	putchar(*s);
 	_puts_recursion(s + 1);
 }
