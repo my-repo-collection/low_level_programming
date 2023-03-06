@@ -13,10 +13,6 @@
 
 - [C - Pointers, arrays and strings](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/pointers_arrays_strings)
 
-- [C - More pointers, arrays and strings](#)
-
-- [C - Even more pointers, arrays and strings](#)
-
 - [C - Recursion](#)
 
 - [C - Static libraries](#)
