@@ -47,6 +47,8 @@ Despues la funcion se va a llamar a si misma de manera recursiva, pasando como a
 
 y esto se va a repetir hasta que llega al final de la cadena, momento en el que se va a imprimir el salto de linea y la recursion se para ahí.
 
+![flowchart](https://github.com/lorecarreno/img/blob/main/0-puts_recursion.c.jpg?raw=true)
+
 ----
 
 Creado por LoreCG ❤
