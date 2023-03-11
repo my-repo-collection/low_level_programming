@@ -13,7 +13,7 @@
 
 - [C - Pointers, arrays and strings](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/pointers_arrays_strings)
 
-- [C - Recursion](#)
+- [C - Recursion](https://github.com/lorecarreno/holbertonschool-low_level_programming/tree/master/recursion)
 
 - [C - Static libraries](#)
 
