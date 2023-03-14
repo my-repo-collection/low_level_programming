@@ -1,6 +1,6 @@
 
 
-# Project: C - argc, argv | Holberton Montevideo, Uruguay Intranet
+# Project: C - argc, argv 
 
 
 ## Resources
