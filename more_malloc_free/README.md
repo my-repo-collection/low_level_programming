@@ -1,3 +1,5 @@
+# Project: C - More malloc, free
+
 ## Resources
 
 **Read or watch**:
@@ -101,6 +103,8 @@ julien@ubuntu:~/0x0b. more malloc, free$
 -   Directory: `more_malloc_free`
 -   File: `0-malloc_checked.c`
 
+----
+
 ### 1\. string\_nconcat
 
 mandatory
@@ -145,7 +149,10 @@ julien@ubuntu:~/0x0b. more malloc, free$
 -   Directory: `more_malloc_free`
 -   File: `1-string_nconcat.c`
 
-Write a function that allocates memory for an array, using `malloc`.
+----
+
+
+### 2\. Write a function that allocates memory for an array, using `malloc`.
 
 -   Prototype: `void *_calloc(unsigned int nmemb, unsigned int size);`
 -   The `_calloc` function allocates memory for an array of `nmemb` elements of `size` bytes each and returns a pointer to the allocated memory.
@@ -228,7 +235,9 @@ julien@ubuntu:~/0x0b. more malloc, free$
 -   Directory: `more_malloc_free`
 -   File: `2-calloc.c`
 
-Write a function that creates an array of integers.
+-----
+
+### 3\. Write a function that creates an array of integers.
 
 -   Prototype: `int *array_range(int min, int max);`
 -   The array created should contain all the values from `min` (included) to `max` (included), ordered from `min` to `max`
@@ -298,6 +307,8 @@ julien@ubuntu:~/0x0b. more malloc, free$
 -   Directory: `more_malloc_free`
 -   File: `3-array_range.c`
 
-[Next](#)
+[next project!](#)
 
------
+---
+
+
