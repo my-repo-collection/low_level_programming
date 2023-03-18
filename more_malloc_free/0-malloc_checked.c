@@ -3,21 +3,18 @@
 
 /**
  * malloc_checked - Allocates memory using malloc.
- * If malloc fails, the malloc_checked function causes
- * normal process termination with a status value of 98.
- *
  * @b: The number of bytes to allocate.
  *
- * Return: A pointer to the allocated memory.
+ * Return: Pointer to the allocated memory, exit with
+ * status value of 98 if malloc fails.
  */
 void *malloc_checked(unsigned int b)
 {
-	void *ptr = malloc(b);
+	void *p = malloc(b);
 
-	if (ptr == NULL)
+	if (p == NULL)
 	{
-		printf("Error: malloc failed\n");
 		exit(98);
 	}
-	return (ptr);
+	return (p);
 }
