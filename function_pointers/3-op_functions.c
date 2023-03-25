@@ -34,10 +34,10 @@ int op_mul(int a, int b)
 }
 
 /**
- * op_div - returns the result of the division of a by b
- * @a: integer to divide
- * @b: integer to divide by
- * eturn: result of division
+ * op_div - divides two integers
+ * @a: first integer
+ * @b: second integer
+ * Return: result of division
  */
 int op_div(int a, int b)
 {
